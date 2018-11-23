@@ -10,8 +10,8 @@
 - http://localhost/main 에 접속하였을 때, hello world! 문장이 나올 수 있도록 설계하세요.
 - http://lcoalhost/main/list 에 접속하였을 때, 다음과 같은 HTML 페이지가 나오도록 구현하셔야 합니다.
 ```html
+<!DOCTYPE html>
 <html>
-!<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
