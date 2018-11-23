@@ -19,8 +19,8 @@
 </head>
 <body>
     <p><a href="John">John</a>의 정보 (점수: 100, 메세지: perfect)</p>
-    <p><a href="Amy">Amy</a>의 정보 (점수: 70, 메세지: perfect)</p>
-    <p><a href="Ethan">Ethan</a>의 정보 (점수: 40, 메세지: perfect)</p>
+    <p><a href="Amy">Amy</a>의 정보 (점수: 70, 메세지: good)</p>
+    <p><a href="Ethan">Ethan</a>의 정보 (점수: 40, 메세지: need to more study)</p>
 </body>
 </html>
 </html>
